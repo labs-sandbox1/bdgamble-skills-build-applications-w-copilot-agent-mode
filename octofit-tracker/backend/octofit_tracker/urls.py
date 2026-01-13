@@ -1,5 +1,13 @@
 """octofit_tracker URL Configuration
 
+API Endpoints:
+    REST API endpoints are accessible at:
+    https://$CODESPACE_NAME-8000.app.github.dev/api/teams/
+    https://$CODESPACE_NAME-8000.app.github.dev/api/users/
+    https://$CODESPACE_NAME-8000.app.github.dev/api/activities/
+    https://$CODESPACE_NAME-8000.app.github.dev/api/workouts/
+    https://$CODESPACE_NAME-8000.app.github.dev/api/leaderboard/
+
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.1/topics/http/urls/
 Examples:
